@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Creme Hidratante Facial",
+    "description": "Hidrata e revitaliza a pele do rosto, ideal para uso diário.",
+    "price": 49.9,
+    "sku": "CR-HID-001",
+    "quantity": 100,
+    "type": "product",
+    "category": "Cuidados com a Pele",
+    "images": [],
+    "tags": [
+      "hidratante",
+      "pele",
+      "beleza"
+    ],
+    "brand": "BeautySkin",
+    "isActive": true
+  },
+  {
+    "name": "Serviço de Maquiagem Profissional",
+    "description": "Maquiagem completa para ocasiões especiais.",
+    "price": 120,
+    "sku": "SRV-MAQ-002",
+    "quantity": 50,
+    "type": "service",
+    "category": "Serviços de Beleza",
+    "images": [],
+    "tags": [
+      "maquiagem",
+      "evento",
+      "profissional"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Shampoo Nutritivo",
+    "description": "Nutre os fios enquanto limpa profundamente.",
+    "price": 35.5,
+    "sku": "SH-NUT-003",
+    "quantity": 200,
+    "type": "product",
+    "category": "Cuidados com o Cabelo",
+    "images": [],
+    "tags": [
+      "shampoo",
+      "cabelo",
+      "nutrição"
+    ],
+    "brand": "HairCare Pro",
+    "isActive": true
+  },
+  {
+    "name": "Serviço de Massagem Relaxante",
+    "description": "Massagem corporal relaxante para aliviar o estresse.",
+    "price": 150,
+    "sku": "SRV-MSG-004",
+    "quantity": 30,
+    "type": "service",
+    "category": "Serviços de Bem-estar",
+    "images": [],
+    "tags": [
+      "massagem",
+      "relaxamento",
+      "bem-estar"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Batom Matte Longa Duração",
+    "description": "Batom com acabamento matte e alta durabilidade.",
+    "price": 29.9,
+    "sku": "BT-MAT-005",
+    "quantity": 150,
+    "type": "product",
+    "category": "Maquiagem",
+    "images": [],
+    "tags": [
+      "batom",
+      "matte",
+      "maquiagem"
+    ],
+    "brand": "MakeItUp",
+    "isActive": true
+  },
+  {
+    "name": "Corte de Cabelo Feminino",
+    "description": "Corte de cabelo personalizado para mulheres.",
+    "price": 80,
+    "sku": "SRV-CRT-006",
+    "quantity": 20,
+    "type": "service",
+    "category": "Serviços de Cabeleireiro",
+    "images": [],
+    "tags": [
+      "cabelo",
+      "corte",
+      "beleza"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Condicionador Reparador",
+    "description": "Repara os fios danificados, deixando-os macios e brilhantes.",
+    "price": 39.9,
+    "sku": "CD-REP-007",
+    "quantity": 180,
+    "type": "product",
+    "category": "Cuidados com o Cabelo",
+    "images": [],
+    "tags": [
+      "condicionador",
+      "reparação",
+      "cabelo"
+    ],
+    "brand": "HairCare Pro",
+    "isActive": true
+  },
+  {
+    "name": "Serviço de Limpeza de Pele",
+    "description": "Limpeza profunda da pele com hidratação.",
+    "price": 100,
+    "sku": "SRV-LIM-008",
+    "quantity": 40,
+    "type": "service",
+    "category": "Serviços de Estética",
+    "images": [],
+    "tags": [
+      "pele",
+      "limpeza",
+      "estética"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Paleta de Sombras Nude",
+    "description": "Paleta de sombras com tons neutros e alta pigmentação.",
+    "price": 59.9,
+    "sku": "PL-SOM-009",
+    "quantity": 120,
+    "type": "product",
+    "category": "Maquiagem",
+    "images": [],
+    "tags": [
+      "sombras",
+      "maquiagem",
+      "beleza"
+    ],
+    "brand": "MakeItUp",
+    "isActive": true
+  },
+  {
+    "name": "Manicure e Pedicure Completa",
+    "description": "Cuidados completos para unhas das mãos e pés.",
+    "price": 70,
+    "sku": "SRV-MNP-010",
+    "quantity": 50,
+    "type": "service",
+    "category": "Serviços de Unhas",
+    "images": [],
+    "tags": [
+      "unhas",
+      "manicure",
+      "beleza"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Base Líquida com FPS 30",
+    "description": "Base líquida com proteção solar e acabamento natural.",
+    "price": 49.9,
+    "sku": "BS-LIQ-011",
+    "quantity": 110,
+    "type": "product",
+    "category": "Maquiagem",
+    "images": [],
+    "tags": [
+      "base",
+      "fps",
+      "maquiagem"
+    ],
+    "brand": "MakeItUp",
+    "isActive": true
+  },
+  {
+    "name": "Depilação Completa",
+    "description": "Depilação com cera quente para pernas, braços e axilas.",
+    "price": 90,
+    "sku": "SRV-DEP-012",
+    "quantity": 60,
+    "type": "service",
+    "category": "Serviços de Depilação",
+    "images": [],
+    "tags": [
+      "depilação",
+      "beleza",
+      "estética"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Sabonete Esfoliante Corporal",
+    "description": "Remove células mortas e deixa a pele macia.",
+    "price": 25.9,
+    "sku": "SB-ESF-013",
+    "quantity": 140,
+    "type": "product",
+    "category": "Cuidados com a Pele",
+    "images": [],
+    "tags": [
+      "esfoliante",
+      "pele",
+      "corporal"
+    ],
+    "brand": "BeautySkin",
+    "isActive": true
+  },
+  {
+    "name": "Penteado para Eventos",
+    "description": "Penteado personalizado para casamentos e festas.",
+    "price": 200,
+    "sku": "SRV-PNT-014",
+    "quantity": 15,
+    "type": "service",
+    "category": "Serviços de Cabeleireiro",
+    "images": [],
+    "tags": [
+      "penteado",
+      "cabelo",
+      "evento"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Máscara Capilar Hidratante",
+    "description": "Hidratação profunda para todos os tipos de cabelo.",
+    "price": 45,
+    "sku": "MS-HID-015",
+    "quantity": 90,
+    "type": "product",
+    "category": "Cuidados com o Cabelo",
+    "images": [],
+    "tags": [
+      "hidratação",
+      "cabelo",
+      "máscara"
+    ],
+    "brand": "HairCare Pro",
+    "isActive": true
+  },
+  {
+    "name": "Serviço de Design de Sobrancelhas",
+    "description": "Design e modelagem das sobrancelhas com técnica profissional.",
+    "price": 50,
+    "sku": "SRV-SOB-016",
+    "quantity": 25,
+    "type": "service",
+    "category": "Serviços de Estética",
+    "images": [],
+    "tags": [
+      "sobrancelhas",
+      "design",
+      "estética"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Condicionador Nutritivo",
+    "description": "Nutre profundamente os fios, deixando o cabelo macio e brilhante.",
+    "price": 38,
+    "sku": "CD-NUT-020",
+    "quantity": 100,
+    "type": "product",
+    "category": "Cuidados com o Cabelo",
+    "images": [],
+    "tags": [
+      "condicionador",
+      "nutrição",
+      "cabelo"
+    ],
+    "brand": "HairCare Essentials",
+    "isActive": true
+  },
+  {
+    "name": "Creme Facial Antissinais",
+    "description": "Reduz visivelmente os sinais de envelhecimento com uso contínuo.",
+    "price": 75,
+    "sku": "CF-ANT-021",
+    "quantity": 50,
+    "type": "product",
+    "category": "Cuidados com a Pele",
+    "images": [],
+    "tags": [
+      "antissinais",
+      "pele",
+      "cuidados"
+    ],
+    "brand": "BeautyPro",
+    "isActive": true
+  },
+  {
+    "name": "Serviço de Maquiagem para Eventos",
+    "description": "Maquiagem profissional para casamentos e festas.",
+    "price": 150,
+    "sku": "SRV-MAQ-022",
+    "quantity": 20,
+    "type": "service",
+    "category": "Serviços de Beleza",
+    "images": [],
+    "tags": [
+      "maquiagem",
+      "profissional",
+      "beleza"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  },
+  {
+    "name": "Serviço de Corte Masculino",
+    "description": "Corte de cabelo estilizado e personalizado para homens.",
+    "price": 50,
+    "sku": "SRV-CRT-023",
+    "quantity": 40,
+    "type": "service",
+    "category": "Serviços de Cabeleireiro",
+    "images": [],
+    "tags": [
+      "corte",
+      "cabelo",
+      "masculino"
+    ],
+    "brand": "World Beauty",
+    "isActive": true
+  }
+]

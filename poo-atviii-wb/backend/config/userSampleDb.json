@@ -1,0 +1,302 @@
+[
+  {
+    "email": "joaosilva@example.com",
+    "password": "hashedPassword1",
+    "name": "João Silva",
+    "cpf": "123.456.789-00",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "mariaoliveira@example.com",
+    "password": "hashedPassword2",
+    "name": "Maria Oliveira",
+    "cpf": "987.654.321-00",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "carlospereira@example.com",
+    "password": "hashedPassword3",
+    "name": "Carlos Pereira",
+    "cpf": "159.753.486-20",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "anacosta@example.com",
+    "password": "hashedPassword4",
+    "name": "Ana Costa",
+    "cpf": "258.369.147-30",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "lucasalmeida@example.com",
+    "password": "hashedPassword5",
+    "name": "Lucas Almeida",
+    "cpf": "789.123.456-40",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "juliasantos@example.com",
+    "password": "hashedPassword6",
+    "name": "Julia Santos",
+    "cpf": "321.654.987-50",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "gabrielmelo@example.com",
+    "password": "hashedPassword7",
+    "name": "Gabriel Melo",
+    "cpf": "654.321.987-60",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "laurafernandes@example.com",
+    "password": "hashedPassword8",
+    "name": "Laura Fernandes",
+    "cpf": "456.789.123-70",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "pedrogomes@example.com",
+    "password": "hashedPassword9",
+    "name": "Pedro Gomes",
+    "cpf": "987.123.654-80",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "clararibeiro@example.com",
+    "password": "hashedPassword10",
+    "name": "Clara Ribeiro",
+    "cpf": "753.159.852-90",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "brunocosta@example.com",
+    "password": "hashedPassword11",
+    "name": "Bruno Costa",
+    "cpf": "951.753.486-01",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "sophialima@example.com",
+    "password": "hashedPassword12",
+    "name": "Sophia Lima",
+    "cpf": "159.486.753-12",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "gustavomarques@example.com",
+    "password": "hashedPassword13",
+    "name": "Gustavo Marques",
+    "cpf": "321.789.654-23",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "amandasilva@example.com",
+    "password": "hashedPassword14",
+    "name": "Amanda Silva",
+    "cpf": "123.654.789-34",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "felipemartins@example.com",
+    "password": "hashedPassword15",
+    "name": "Felipe Martins",
+    "cpf": "654.159.753-45",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "larissaalmeida@example.com",
+    "password": "hashedPassword16",
+    "name": "Larissa Almeida",
+    "cpf": "789.456.123-56",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "ricardorocha@example.com",
+    "password": "hashedPassword17",
+    "name": "Ricardo Rocha",
+    "cpf": "951.852.357-67",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "carolinamendes@example.com",
+    "password": "hashedPassword18",
+    "name": "Carolina Mendes",
+    "cpf": "357.951.852-78",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "andreoliveira@example.com",
+    "password": "hashedPassword19",
+    "name": "André Oliveira",
+    "cpf": "147.258.369-89",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "beatrizsantana@example.com",
+    "password": "hashedPassword20",
+    "name": "Beatriz Santana",
+    "cpf": "369.147.258-90",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "danielcarvalho@example.com",
+    "password": "hashedPassword21",
+    "name": "Daniel Carvalho",
+    "cpf": "654.987.321-01",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "eduardalopes@example.com",
+    "password": "hashedPassword22",
+    "name": "Eduarda Lopes",
+    "cpf": "852.753.159-12",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "mateuscunha@example.com",
+    "password": "hashedPassword23",
+    "name": "Mateus Cunha",
+    "cpf": "753.951.852-23",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "angelapereira@example.com",
+    "password": "hashedPassword24",
+    "name": "Angela Pereira",
+    "cpf": "357.852.951-34",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "henriquelima@example.com",
+    "password": "hashedPassword25",
+    "name": "Henrique Lima",
+    "cpf": "159.357.486-45",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "fernandasilveira@example.com",
+    "password": "hashedPassword26",
+    "name": "Fernanda Silveira",
+    "cpf": "951.357.159-56",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "rafaelramos@example.com",
+    "password": "hashedPassword27",
+    "name": "Rafael Ramos",
+    "cpf": "357.159.951-67",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "tatiabarbosa@example.com",
+    "password": "hashedPassword28",
+    "name": "Tatiana Barbosa",
+    "cpf": "951.753.456-78",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "rodrigocorreia@example.com",
+    "password": "hashedPassword29",
+    "name": "Rodrigo Correia",
+    "cpf": "753.951.123-89",
+    "gender": "male",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  },
+  {
+    "email": "julianaborges@example.com",
+    "password": "hashedPassword30",
+    "name": "Juliana Borges",
+    "cpf": "456.123.789-90",
+    "gender": "female",
+    "isApproved": true,
+    "consentGiven": true,
+    "role": "client"
+  }
+]

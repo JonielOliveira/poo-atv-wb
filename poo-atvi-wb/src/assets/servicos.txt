@@ -1,0 +1,21 @@
+1, Manicure, 45.00
+2, Pedicure, 55.00
+3, Design de Sobrancelhas, 40.00
+4, Corte de Cabelos Feminino, 80.00
+5, Pintura de Cabelos Feminino, 150.00
+6, Remoção de Rugas, 600.00
+7, Remoção de Manchas na Pele, 250.00
+8, Aplicação de Botox, 800.00
+9, Tratamento para Emagrecimento e Redução de Medidas, 350.00
+10, Tratamento Capilar (Reconstrução e Hidratação), 120.00
+11, Peeling Facial, 300.00
+12, Massagem Relaxante, 100.00
+13, Corte de Cabelos Masculino, 70.00
+14, Modelagem e Corte de Barba, 50.00
+15, Tratamento para Queda de Cabelo, 200.00
+16, Maquiagem Profissional (Para Eventos), 180.00
+17, Relaxamento e Massagem Corporal para Homens, 120.00
+18, Barba e Bigode com Henna (Tonalização), 35.00
+19, Tratamento Estético Corporal Masculino, 250.00
+20, Corte de Cabelo + Barba (Pacote Completo), 110.00
+21, Massagem Redutora de Medidas, 150.00

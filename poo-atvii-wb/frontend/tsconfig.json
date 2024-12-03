@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es6",                         // Define a versão JavaScript alvo, como ES6 ou ES2020
+    "lib": ["dom", "dom.iterable", "esnext"], // Bibliotecas que o compilador deve incluir, como DOM e ESNext
+    "allowJs": true,                          // Permite importar arquivos .js no projeto
+    "skipLibCheck": true,                     // Ignora verificação de tipos de arquivos de declaração (.d.ts)
+    "strict": true,                           // Habilita checagem de tipos estrita
+    "forceConsistentCasingInFileNames": true, // Enforce consistent case on imports
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+    "noEmit": true,                           // Não emite arquivos de saída (útil em projetos React)
+    "esModuleInterop": true,                  // Habilita interoperabilidade com módulos ES6
+    "module": "esnext",                       // Define o sistema de módulos, geralmente esnext para React
+    "moduleResolution": "node",               // Resolve módulos de acordo com o padrão Node.js
+    "resolveJsonModule": true,                // Permite a importação de arquivos JSON
+    "isolatedModules": true,                  // Compila cada arquivo isoladamente (recomendado para React)
+    "jsx": "react"                        // Habilita suporte JSX no TypeScript, usando React 17 ou superior
+  },
+  "include": ["src"],                         // Define a pasta de arquivos a serem incluídos (ajuste conforme necessário)
+  "exclude": ["node_modules", "build"]        // Exclui arquivos das pastas especificadas
+}
